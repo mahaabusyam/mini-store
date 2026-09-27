@@ -1,0 +1,14 @@
+[
+  {
+    "id": 101,
+    "title": "Precision Machined Stylus",
+    "image": "https://picsum.photos/seed/stylus/200/200",
+    "price": 45
+  },
+  {
+    "id": 102,
+    "title": "Microfiber Screen Cloth Set",
+    "image": "https://picsum.photos/seed/cloth/200/200",
+    "price": 12
+  }
+]
