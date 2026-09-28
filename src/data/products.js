@@ -1,56 +1,55 @@
-import auraImg from '../assets/products/aura-1.jpg';
-import auraImg2 from '../assets/products/aura-2.jpg';
-import auraImg3 from '../assets/products/aura-3.jpg';
-import auraImg4 from '../assets/products/aura-4.jpg';
-import auraStudio1 from '../assets/products/aura-studio-1.jpg';
-import auraStudio2 from '../assets/products/aura-studio-2.jpg';
-import auraStudio3 from '../assets/products/aura-studio-3.jpg';
-import auraStudio4 from '../assets/products/aura-studio-4.jpg';
+import auraImg from '../assets/products/aura-1.webp';
+import auraImg2 from '../assets/products/aura-2.webp';
+import auraImg3 from '../assets/products/aura-3.webp';
+import auraImg4 from '../assets/products/aura-4.webp';
+import auraStudio1 from '../assets/products/aura-studio-1.webp';
+import auraStudio2 from '../assets/products/aura-studio-2.webp';
+import auraStudio3 from '../assets/products/aura-studio-3.webp';
+import auraStudio4 from '../assets/products/aura-studio-4.webp';
 
-import magsafeImg from '../assets/products/magsafe-1.jpg';
-import magsafeImg2 from '../assets/products/magsafe-2.jpg';
-import magsafeStudio1 from '../assets/products/magsafe-studio-1.jpg';
-import magsafeStudio2 from '../assets/products/magsafe-studio-2.jpg';
-import magsafeStudio3 from '../assets/products/magsafe-studio-3.jpg';
-import magsafeStudio4 from '../assets/products/magsafe-studio-4.jpg';
+import magsafeImg from '../assets/products/magsafe-1.webp';
+import magsafeImg2 from '../assets/products/magsafe-2.webp';
+import magsafeStudio1 from '../assets/products/magsafe-studio-1.webp';
+import magsafeStudio2 from '../assets/products/magsafe-studio-2.webp';
+import magsafeStudio3 from '../assets/products/magsafe-studio-3.webp';
+import magsafeStudio4 from '../assets/products/magsafe-studio-4.webp';
 
-import walletImg from '../assets/products/wallet-1.jpg';
-import walletImg2 from '../assets/products/wallet-2.jpg';
-import walletStudio1 from '../assets/products/wallet-studio-1.jpg';
-import walletStudio2 from '../assets/products/wallet-studio-2.jpg';
-import walletStudio3 from '../assets/products/wallet-studio-3.jpg';
-import walletStudio4 from '../assets/products/wallet-studio-4.jpg';
+import walletImg from '../assets/products/wallet-1.webp';
+import walletImg2 from '../assets/products/wallet-2.webp';
+import walletStudio1 from '../assets/products/wallet-studio-1.webp';
+import walletStudio2 from '../assets/products/wallet-studio-2.webp';
+import walletStudio3 from '../assets/products/wallet-studio-3.webp';
+import walletStudio4 from '../assets/products/wallet-studio-4.webp';
 
-import teeImg from '../assets/products/tee-1.jpg';
-import teeStudio1 from '../assets/products/tee-studio-1.jpg';
-import teeStudio2 from '../assets/products/tee-studio-2.jpg';
-import teeStudio3 from '../assets/products/tee-studio-3.jpg';
-import teeStudio4 from '../assets/products/tee-studio-4.jpg';
+import teeImg from '../assets/products/tee-1.webp';
+import teeStudio1 from '../assets/products/tee-studio-1.webp';
+import teeStudio2 from '../assets/products/tee-studio-2.webp';
+import teeStudio3 from '../assets/products/tee-studio-3.webp';
+import teeStudio4 from '../assets/products/tee-studio-4.webp';
 
-import pourOverImg from '../assets/products/pourover-1.jpg';
-import pourOverStudio1 from '../assets/products/pourover-studio-1.jpg';
-import pourOverStudio2 from '../assets/products/pourover-studio-2.jpg';
-import pourOverStudio3 from '../assets/products/pourover-studio-3.jpg';
-import pourOverStudio4 from '../assets/products/pourover-studio-4.jpg';
+import pourOverImg from '../assets/products/pourover-1.webp';
+import pourOverStudio1 from '../assets/products/pourover-studio-1.webp';
+import pourOverStudio2 from '../assets/products/pourover-studio-2.webp';
+import pourOverStudio3 from '../assets/products/pourover-studio-3.webp';
+import pourOverStudio4 from '../assets/products/pourover-studio-4.webp';
 
-import deskLightImg from '../assets/products/desklight-1.jpg';
-import deskLightStudio1 from '../assets/products/desklight-studio-1.jpg';
-import deskLightStudio2 from '../assets/products/desklight-studio-2.jpg';
-import deskLightStudio3 from '../assets/products/desklight-studio-3.jpg';
-import deskLightStudio4 from '../assets/products/desklight-studio-4.jpg';
+import deskLightImg from '../assets/products/desklight-1.webp';
+import deskLightStudio1 from '../assets/products/desklight-studio-1.webp';
+import deskLightStudio2 from '../assets/products/desklight-studio-2.webp';
+import deskLightStudio3 from '../assets/products/desklight-studio-3.webp';
+import deskLightStudio4 from '../assets/products/desklight-studio-4.webp';
 
-import penImg from '../assets/products/pen-1.jpg';
-import penStudio1 from '../assets/products/pen-studio-1.jpg';
-import penStudio2 from '../assets/products/pen-studio-2.jpg';
-import penStudio3 from '../assets/products/pen-studio-3.jpg';
-import penStudio4 from '../assets/products/pen-studio-4.jpg';
+import penImg from '../assets/products/pen-1.webp';
+import penStudio1 from '../assets/products/pen-studio-1.webp';
+import penStudio2 from '../assets/products/pen-studio-2.webp';
+import penStudio3 from '../assets/products/pen-studio-3.webp';
+import penStudio4 from '../assets/products/pen-studio-4.webp';
 
-import overshirtImg from '../assets/products/overshirt-1.jpg';
-import overshirtStudio1 from '../assets/products/overshirt-studio-1.jpg';
-import overshirtStudio2 from '../assets/products/overshirt-studio-2.jpg';
-import overshirtStudio3 from '../assets/products/overshirt-studio-3.jpg';
-import overshirtStudio4 from '../assets/products/overshirt-studio-4.jpg';
-
+import overshirtImg from '../assets/products/overshirt-1.webp';
+import overshirtStudio1 from '../assets/products/overshirt-studio-1.webp';
+import overshirtStudio2 from '../assets/products/overshirt-studio-2.webp';
+import overshirtStudio3 from '../assets/products/overshirt-studio-3.webp';
+import overshirtStudio4 from '../assets/products/overshirt-studio-4.webp';
 const products = [
   {
     id: 1,
